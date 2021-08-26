@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiveDemo", "LiveDemo\LiveDemo.csproj", "{A51F269A-FD7B-4CED-9A3C-0FBABBFEDE08}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "App", "App", "{5AC7641E-FAB3-4550-A454-08FE29750E98}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lib", "Lib", "{D51152C3-1884-4CA4-BB1A-333529CF58CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A51F269A-FD7B-4CED-9A3C-0FBABBFEDE08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A51F269A-FD7B-4CED-9A3C-0FBABBFEDE08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A51F269A-FD7B-4CED-9A3C-0FBABBFEDE08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A51F269A-FD7B-4CED-9A3C-0FBABBFEDE08}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A51F269A-FD7B-4CED-9A3C-0FBABBFEDE08} = {5AC7641E-FAB3-4550-A454-08FE29750E98}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E39B75BC-885F-4BF7-8E55-0F4CC46A26F0}
+	EndGlobalSection
+EndGlobal
