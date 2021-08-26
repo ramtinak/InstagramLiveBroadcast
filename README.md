@@ -4,6 +4,9 @@ A tiny example of creating instagram live broadcasting via private version of [I
 ###  Overview
 With this example you can broadcast live streaming to Instagram, pin/unpin a comment and create IGTV series.
 
+### Screenshot
+![image](https://user-images.githubusercontent.com/8324235/131046317-4b75b3b9-d105-4790-8836-5655b2f34b78.png)
+
 ### Requirements
 - .NET Framework 4.8 (You can downgrade it to 4.6.1)
 - Private Version of [InstagramApiSharp](https://github.com/ramtinak/InstagramApiSharp/issues/243).
